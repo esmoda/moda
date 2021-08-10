@@ -1,105 +1,105 @@
 {
 	"data": [{
-			"producto": "velez trio",
+			"producto": "Combo Velez",
 			"unidad": 3,
-			"precio": 72,
-			"talla": "",
+			"precio": 72000,
+			"talla": "Sin especificaciones",
 			"categoria": "accesorios",
 			"img_portafolio": "assets/img/portfolio/Velez Trio.jpeg"
 		},
 		{
-			"producto": "bodys polilycra",
+			"producto": "Body polilycra",
 			"unidad": 1,
-			"precio": 45,
-			"talla": "",
+			"precio": 45000,
+			"talla": "S M L",
 			"categoria": "ropa_femenina",
 			"img_portafolio": "assets/img/portfolio/Bodys Polylicras.jpeg"
 		},
 		{
-			"producto": "sandalia tacon corrido",
+			"producto": "Sandalia tacon corrido",
 			"unidad": 1,
-			"precio": 65,
-			"talla": "37 AL 40",
+			"precio": 65000,
+			"talla": "37 al 40",
 			"categoria": "calzado_femenino",
 			"img_portafolio": "assets/img/portfolio/SandaliaTaconCorrido.jpeg"
 		},
 		{
-			"producto": "calzado hugo boss",
+			"producto": "Hugo boss",
 			"unidad": 1,
-			"precio": 65,
-			"talla": "37 AL 43",
+			"precio": 65000,
+			"talla": "37 al 43",
 			"categoria": "calzado_masculino",
 			"img_portafolio": "assets/img/portfolio/HugoBOOS.jpg"
 		},
 		{
-			"producto": "bolso velez combo",
+			"producto": "Combo bolso Velez",
 			"unidad": 2,
-			"precio": 68,
-			"talla": "",
+			"precio": 68000,
+			"talla": "Sin especificaciones",
 			"categoria": "accesorios",
 			"img_portafolio": "assets/img/portfolio/BolsoVelezCombo.JPEG"
 		},
 		{
-			"producto": "converse kids",
+			"producto": "Converse kids",
 			"unidad": 1,
-			"precio": 48,
-			"talla": "24 AL 35",
+			"precio": 48000,
+			"talla": "24 al 35",
 			"categoria": "calzado_infantil",
 			"img_portafolio": "assets/img/portfolio/ConverseKids.JPEG"
 		},
 		{
-			"producto": "brahma caña alta",
+			"producto": "Brahma caña alta",
 			"unidad": 1,
-			"precio": 68,
-			"talla": "37 AL 40",
+			"precio": 68000,
+			"talla": "37 al 40",
 			"categoria": "calzado_femenino",
 			"img_portafolio": "assets/img/portfolio/BrahmaCañaAlta.JPEG"
 		},
 		{
-			"producto": "nike 354",
+			"producto": "Nike 354",
 			"unidad": 1,
-			"precio": 65,
-			"talla": "37 AL 43",
+			"precio": 65000,
+			"talla": "37 al 43",
 			"categoria": "calzado_masculino",
 			"img_portafolio": "assets/img/portfolio/Nike.JPEG"
 		},
 		{
-			"producto": "sandalia tacos",
+			"producto": "Sandalia tacos",
 			"unidad": 1,
-			"precio": 58,
-			"talla": "37 AL 40",
+			"precio": 58000,
+			"talla": "37 al 40",
 			"categoria": "calzado_femenino",
 			"img_portafolio": "assets/img/portfolio/SandaliaTacos.JPEG"
 		},
 		{
-			"producto": "combo botin casual y bolso",
+			"producto": "Combo botin casual y bolso",
 			"unidad": 2,
-			"precio": 168,
-			"talla": "37 AL 43",
+			"precio": 168000,
+			"talla": "37 al 43",
 			"categoria": "accesorios",
 			"img_portafolio": "assets/img/portfolio/ComboBotinCasualYBolso.JPEG"
 		},
 		{
-			"producto": "bolso de yute y tacon",
+			"producto": "Bolso de yute y sandalia tacon",
 			"unidad": 2,
-			"precio": 108,
-			"talla": "37 AL 40",
+			"precio": 108000,
+			"talla": "37 al 40",
 			"categoria": "accesorios",
 			"img_portafolio": "assets/img/portfolio/BolsoDeYuteYTacon.JPEG"
 		},
 		{
-			"producto": "bolso de yute y plataforma",
+			"producto": "Bolso de yute y sandalia plataforma",
 			"unidad": 2,
-			"precio": 70,
-			"talla": "37 AL 40",
+			"precio": 70000,
+			"talla": "37 al 40",
 			"categoria": "accesorios",
 			"img_portafolio": "assets/img/portfolio/BolsoDeYuteYPlataforma.JPEG"
 		},
 		{
-			"producto": "bolso de yute y plataforma",
+			"producto": "Bolso de yute y sandalia plataforma",
 			"unidad": 2,
-			"precio": 70,
-			"talla": "37 AL 40",
+			"precio": 70000,
+			"talla": "37 al 40",
 			"categoria": "accesorios",
 			"img_portafolio": "assets/img/portfolio/BolsoDeYuteYPlataforma.JPEG"
 		}
