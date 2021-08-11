@@ -45,7 +45,7 @@
 			"precio": 45000,
 			"talla": "S M L",
 			"categoria": "ropa_femenina",
-			"img_portafolio": "assets/img/portfolio/Body Polylicra blanco.jpeg"
+			"img_portafolio": "assets/img/portfolio/Body polylicra blanco.jpeg"
 		},
 		{
 			"producto": "Body polilycra negro",
@@ -53,7 +53,7 @@
 			"precio": 45000,
 			"talla": "S M L",
 			"categoria": "ropa_femenina",
-			"img_portafolio": "assets/img/portfolio/Body Polylicra negro.jpeg"
+			"img_portafolio": "assets/img/portfolio/Body polylicra negro.jpeg"
 		},
 		{
 			"producto": "Body polilycra purpura",
@@ -61,7 +61,7 @@
 			"precio": 45000,
 			"talla": "S M L",
 			"categoria": "ropa_femenina",
-			"img_portafolio": "assets/img/portfolio/Body Polylicra purpura.jpeg"
+			"img_portafolio": "assets/img/portfolio/Body polylicra purpura.jpeg"
 		},
 		{
 			"producto": "Sandalia de plataforma nueva colección yute",
@@ -69,7 +69,7 @@
 			"precio": 65000,
 			"talla": "37 al 40",
 			"categoria": "calzado_femenino",
-			"img_portafolio": "assets/img/portfolio/Sandalia de plataforma nueva colección yute.jpeg"
+			"img_portafolio": "assets/img/portfolio/Sandalia de plataforma nueva coleccion.jpeg"
 		},
 		{
 			"producto": "Sandalia de plataforma nueva colección ",
@@ -93,7 +93,7 @@
 			"precio": 65000,
 			"talla": "37 al 40",
 			"categoria": "calzado_femenino",
-			"img_portafolio": "assets/img/portfolio/Sandalia  plataforma .jpeg"
+			"img_portafolio": "assets/img/portfolio/Sandalia plataforma.jpeg"
 		},
 		{
 			"producto": "Sandalia tacon yute",
@@ -101,7 +101,7 @@
 			"precio": 65000,
 			"talla": "37 al 40",
 			"categoria": "calzado_femenino",
-			"img_portafolio": "assets/img/portfolio/Sandalia  tacon yute .jpeg"
+			"img_portafolio": "assets/img/portfolio/Sandalia taco yute.jpeg"
 		},
 		{
 			"producto": "Hugo BOOS",
@@ -117,7 +117,7 @@
 			"precio": 68000,
 			"talla": "Sin especificaciones",
 			"categoria": "accesorios",
-			"img_portafolio": "assets/img/portfolio/Combo velez y monedero color marron.JPEG"
+			"img_portafolio": "assets/img/portfolio/Combo bolso velez y monedero color marron.JPEG"
 		},
 		{
 			"producto": "Combo bolso Velez y monedero color negro",
@@ -125,15 +125,23 @@
 			"precio": 68000,
 			"talla": "Sin especificaciones",
 			"categoria": "accesorios",
-			"img_portafolio": "assets/img/portfolio/Combo velez y monedero color negro.JPEG"
+			"img_portafolio": "assets/img/portfolio/Combo bolso velez y monedero color negro.JPEG"
 		},
 		{
-			"producto": "Converse kids",
+			"producto": "Converse kids color negro",
 			"unidad": 1,
 			"precio": 48000,
 			"talla": "24 al 35",
 			"categoria": "calzado_infantil",
-			"img_portafolio": "assets/img/portfolio/ConverseKids.JPEG"
+			"img_portafolio": "assets/img/portfolio/Converse kids negro.JPEG"
+		},
+		{
+			"producto": "Converse kids color azul",
+			"unidad": 1,
+			"precio": 48000,
+			"talla": "24 al 35",
+			"categoria": "calzado_infantil",
+			"img_portafolio": "assets/img/portfolio/Converse kids azul.JPEG"
 		},
 		{
 			"producto": "Brahma caña alta color azul",
@@ -173,7 +181,7 @@
 			"precio": 65000,
 			"talla": "37 al 43",
 			"categoria": "calzado_masculino",
-			"img_portafolio": "assets/img/portfolio/Nike color negro y blanco.JPEG"
+			"img_portafolio": "assets/img/portfolio/Nike color negro.JPEG"
 		},
 		{
 			"producto": "Nike color negro y blanco",
@@ -181,7 +189,7 @@
 			"precio": 65000,
 			"talla": "37 al 43",
 			"categoria": "calzado_masculino",
-			"img_portafolio": "assets/img/portfolio/Nike color negro.JPEG"
+			"img_portafolio": "assets/img/portfolio/Nike color negro y blanco.JPEG"
 		},
 		{
 			"producto": "Sandalia taco yute",
