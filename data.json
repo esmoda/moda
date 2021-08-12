@@ -1,36 +1,275 @@
-{"data":[
-{"producto":"Combo Velez","unidad":3,"precio":72000,"talla":"Especificaciones en la foto","categoria":"accesorios","img_portafolio":"assets/img/portfolio/Combo velez.jpeg"},
-{"producto":"Combo Velez rojo","unidad":3,"precio":72000,"talla":"Especificaciones en la foto","categoria":"accesorios","img_portafolio":"assets/img/portfolio/Combo velez rojo.jpeg"},
-{"producto":"Combo Velez negro","unidad":3,"precio":72000,"talla":"Especificaciones en la foto","categoria":"accesorios","img_portafolio":"assets/img/portfolio/Combo velez negro.jpeg"},
-{"producto":"Combo Velez marron","unidad":3,"precio":72000,"talla":"Especificaciones en la foto","categoria":"accesorios","img_portafolio":"assets/img/portfolio/Combo velez marron.jpeg"},
-{"producto":"Body polilycra","unidad":1,"precio":45000,"talla":"S M L","categoria":"ropa_femenina","img_portafolio":"assets/img/portfolio/Body Polylicra.jpeg"},
-{"producto":"Body polilycra blanco","unidad":1,"precio":45000,"talla":"S M L","categoria":"ropa_femenina","img_portafolio":"assets/img/portfolio/Body polylicra blanco.jpeg"},
-{"producto":"Body polilycra negro","unidad":1,"precio":45000,"talla":"S M L","categoria":"ropa_femenina","img_portafolio":"assets/img/portfolio/Body polylicra negro.jpeg"},
-{"producto":"Body polilycra purpura","unidad":1,"precio":45000,"talla":"S M L","categoria":"ropa_femenina","img_portafolio":"assets/img/portfolio/Body polylicra purpura.jpeg"},
-{"producto":"Sandalia de plataforma nueva colección yute","unidad":1,"precio":65000,"talla":"37 al 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/Sandalia de plataforma nueva colección yute.jpeg"},
-{"producto":"Sandalia de plataforma nueva colección ","unidad":1,"precio":65000,"talla":"37 al 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/Sandalia de plataforma nueva coleccion.jpeg"},
-{"producto":"Sandalia plataforma yute","unidad":1,"precio":65000,"talla":"37 al 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/Sandalia plataforma yute.jpeg"},
-{"producto":"Sandalia plataforma","unidad":1,"precio":65000,"talla":"37 al 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/Sandalia plataforma.jpeg"},
-{"producto":"Sandalia tacon yute","unidad":1,"precio":65000,"talla":"37 al 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/Sandalia taco yute.jpeg"},
-{"producto":"Hugo BOOS","unidad":1,"precio":65000,"talla":"37 al 43","categoria":"calzado_masculino","img_portafolio":"assets/img/portfolio/Hugo boos.jpg"},
-{"producto":"Combo bolso Velez y monedero color marron","unidad":2,"precio":68000,"talla":"Sin especificaciones","categoria":"accesorios","img_portafolio":"assets/img/portfolio/Combo bolso velez y monedero color marron.JPEG"},
-{"producto":"Combo bolso Velez y monedero color negro","unidad":2,"precio":68000,"talla":"Sin especificaciones","categoria":"accesorios","img_portafolio":"assets/img/portfolio/Combo bolso velez y monedero color negro.JPEG"},
-{"producto":"Converse kids color negro","unidad":1,"precio":48000,"talla":"24 al 35","categoria":"calzado_infantil","img_portafolio":"assets/img/portfolio/Converse kids negro.JPEG"},
-{"producto":"Converse kids color azul","unidad":1,"precio":48000,"talla":"24 al 35","categoria":"calzado_infantil","img_portafolio":"assets/img/portfolio/Converse kids azul.JPEG"},
-{"producto":"Brahma caña alta color azul","unidad":1,"precio":68000,"talla":"37 al 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/Brahma caña alta color azul.JPEG"},
-{"producto":"Brahma caña alta color piel","unidad":1,"precio":68000,"talla":"37 al 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/Brahma caña alta color piel.JPEG"},
-{"producto":"Brahma caña alta color negro","unidad":1,"precio":68000,"talla":"37 al 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/Brahma caña alta color negro.JPEG"},
-{"producto":"Nike color blanco","unidad":1,"precio":65000,"talla":"37 al 43","categoria":"calzado_masculino","img_portafolio":"assets/img/portfolio/Nike color blanco.JPEG"},
-{"producto":"Nike color negro","unidad":1,"precio":65000,"talla":"37 al 43","categoria":"calzado_masculino","img_portafolio":"assets/img/portfolio/Nike color negro.JPEG"},
-{"producto":"Nike color negro y blanco","unidad":1,"precio":65000,"talla":"37 al 43","categoria":"calzado_masculino","img_portafolio":"assets/img/portfolio/Nike color negro y blanco.JPEG"},
-{"producto":"Sandalia taco yute","unidad":1,"precio":58000,"talla":"37 al 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/Sandalia taco yute.JPEG"},
-{"producto":"Calzado de vestir","unidad":1,"precio":85000,"talla":"37 al 43","categoria":"calzado_masculino","img_portafolio":"assets/img/portfolio/Calzado de vestir.JPEG"},
-{"producto":"Combo botin y bolso color piel","unidad":2,"precio":168000,"talla":"37 al 43","categoria":"calzado_masculino","img_portafolio":"assets/img/portfolio/Combo botin y bolso color piel.JPEG"},
-{"producto":"Combo botin y bolso color negro","unidad":2,"precio":168000,"talla":"37 al 43","categoria":"calzado_masculino","img_portafolio":"assets/img/portfolio/Combo botin y bolso color negro.JPEG"},
-{"producto":"Combo botin y bolso color azul","unidad":2,"precio":168000,"talla":"37 al 43","categoria":"calzado_masculino","img_portafolio":"assets/img/portfolio/Combo botin y bolso color azul.JPEG"},
-{"producto":"Bolso  yute y sandalia tacon","unidad":2,"precio":108000,"talla":"37 al 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/Bolso yute y sandalia de tacon.JPEG"},
-{"producto":"Bolso  yute y sandalia tacon blanco","unidad":2,"precio":108000,"talla":"37 al 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/Bolso yute y sandalia de tacon blanco.JPEG"},
-{"producto":"Bolso  yute y sandalia tacon negro","unidad":2,"precio":108000,"talla":"37 al 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/Bolso yute y sandalia de tacon negro.JPEG"},
-{"producto":"Bolso de yute y sandalia plataforma","unidad":2,"precio":70000,"talla":"37 al 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/Bolso yute y sandalia de plataforma.JPEG"},
-{"producto":"Bolso de yute y sandalia plataforma","unidad":2,"precio":70000,"talla":"37 al 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/BolsoDeYuteYPlataforma.JPEG"}
-]}
+{
+	"data": [{
+			"producto": "Combo Velez",
+			"unidad": 3,
+			"precio": 72000,
+			"talla": "Especificaciones en la foto",
+			"categoria": "accesorios",
+			"img_portafolio": "assets/img/portfolio/Combo velez.jpeg"
+		},
+		{
+			"producto": "Combo Velez rojo",
+			"unidad": 3,
+			"precio": 72000,
+			"talla": "Especificaciones en la foto",
+			"categoria": "accesorios",
+			"img_portafolio": "assets/img/portfolio/Combo velez rojo.jpeg"
+		},
+		{
+			"producto": "Combo Velez negro",
+			"unidad": 3,
+			"precio": 72000,
+			"talla": "Especificaciones en la foto",
+			"categoria": "accesorios",
+			"img_portafolio": "assets/img/portfolio/Combo velez negro.jpeg"
+		},
+		{
+			"producto": "Combo Velez marron",
+			"unidad": 3,
+			"precio": 72000,
+			"talla": "Especificaciones en la foto",
+			"categoria": "accesorios",
+			"img_portafolio": "assets/img/portfolio/Combo velez marron.jpeg"
+		},
+		{
+			"producto": "Body polilycra",
+			"unidad": 1,
+			"precio": 45000,
+			"talla": "S M L",
+			"categoria": "ropa_femenina",
+			"img_portafolio": "assets/img/portfolio/Body Polylicra.jpeg"
+		},
+		{
+			"producto": "Body polilycra blanco",
+			"unidad": 1,
+			"precio": 45000,
+			"talla": "S M L",
+			"categoria": "ropa_femenina",
+			"img_portafolio": "assets/img/portfolio/Body polylicra blanco.jpeg"
+		},
+		{
+			"producto": "Body polilycra negro",
+			"unidad": 1,
+			"precio": 45000,
+			"talla": "S M L",
+			"categoria": "ropa_femenina",
+			"img_portafolio": "assets/img/portfolio/Body polylicra negro.jpeg"
+		},
+		{
+			"producto": "Body polilycra purpura",
+			"unidad": 1,
+			"precio": 45000,
+			"talla": "S M L",
+			"categoria": "ropa_femenina",
+			"img_portafolio": "assets/img/portfolio/Body polylicra purpura.jpeg"
+		},
+		{
+			"producto": "Sandalia de plataforma nueva colección yute",
+			"unidad": 1,
+			"precio": 65000,
+			"talla": "37 al 40",
+			"categoria": "calzado_femenino",
+			"img_portafolio": "assets/img/portfolio/Sandalia de plataforma nueva colección yute.jpeg"
+		},
+		{
+			"producto": "Sandalia de plataforma nueva colección ",
+			"unidad": 1,
+			"precio": 65000,
+			"talla": "37 al 40",
+			"categoria": "calzado_femenino",
+			"img_portafolio": "assets/img/portfolio/Sandalia de plataforma nueva coleccion.jpeg"
+		},
+		{
+			"producto": "Sandalia plataforma yute",
+			"unidad": 1,
+			"precio": 65000,
+			"talla": "37 al 40",
+			"categoria": "calzado_femenino",
+			"img_portafolio": "assets/img/portfolio/Sandalia plataforma yute.jpeg"
+		},
+		{
+			"producto": "Sandalia plataforma",
+			"unidad": 1,
+			"precio": 65000,
+			"talla": "37 al 40",
+			"categoria": "calzado_femenino",
+			"img_portafolio": "assets/img/portfolio/Sandalia plataforma.jpeg"
+		},
+		{
+			"producto": "Sandalia tacon yute",
+			"unidad": 1,
+			"precio": 65000,
+			"talla": "37 al 40",
+			"categoria": "calzado_femenino",
+			"img_portafolio": "assets/img/portfolio/Sandalia taco yute.jpeg"
+		},
+		{
+			"producto": "Hugo BOOS",
+			"unidad": 1,
+			"precio": 65000,
+			"talla": "37 al 43",
+			"categoria": "calzado_masculino",
+			"img_portafolio": "assets/img/portfolio/Hugo boos.jpg"
+		},
+		{
+			"producto": "Combo bolso Velez y monedero color marron",
+			"unidad": 2,
+			"precio": 68000,
+			"talla": "Sin especificaciones",
+			"categoria": "accesorios",
+			"img_portafolio": "assets/img/portfolio/Combo bolso velez y monedero color marron.JPEG"
+		},
+		{
+			"producto": "Combo bolso Velez y monedero color negro",
+			"unidad": 2,
+			"precio": 68000,
+			"talla": "Sin especificaciones",
+			"categoria": "accesorios",
+			"img_portafolio": "assets/img/portfolio/Combo bolso velez y monedero color negro.JPEG"
+		},
+		{
+			"producto": "Converse kids color negro",
+			"unidad": 1,
+			"precio": 48000,
+			"talla": "24 al 35",
+			"categoria": "calzado_infantil",
+			"img_portafolio": "assets/img/portfolio/Converse kids negro.JPEG"
+		},
+		{
+			"producto": "Converse kids color azul",
+			"unidad": 1,
+			"precio": 48000,
+			"talla": "24 al 35",
+			"categoria": "calzado_infantil",
+			"img_portafolio": "assets/img/portfolio/Converse kids azul.JPEG"
+		},
+		{
+			"producto": "Brahma caña alta color azul",
+			"unidad": 1,
+			"precio": 68000,
+			"talla": "37 al 40",
+			"categoria": "calzado_femenino",
+			"img_portafolio": "assets/img/portfolio/Brahma caña alta color azul.JPEG"
+		},
+		{
+			"producto": "Brahma caña alta color piel",
+			"unidad": 1,
+			"precio": 68000,
+			"talla": "37 al 40",
+			"categoria": "calzado_femenino",
+			"img_portafolio": "assets/img/portfolio/Brahma caña alta color piel.JPEG"
+		},
+		{
+			"producto": "Brahma caña alta color negro",
+			"unidad": 1,
+			"precio": 68000,
+			"talla": "37 al 40",
+			"categoria": "calzado_femenino",
+			"img_portafolio": "assets/img/portfolio/Brahma caña alta color negro.JPEG"
+		},
+		{
+			"producto": "Nike color blanco",
+			"unidad": 1,
+			"precio": 65000,
+			"talla": "37 al 43",
+			"categoria": "calzado_masculino",
+			"img_portafolio": "assets/img/portfolio/Nike color blanco.JPEG"
+		},
+		{
+			"producto": "Nike color negro",
+			"unidad": 1,
+			"precio": 65000,
+			"talla": "37 al 43",
+			"categoria": "calzado_masculino",
+			"img_portafolio": "assets/img/portfolio/Nike color negro.JPEG"
+		},
+		{
+			"producto": "Nike color negro y blanco",
+			"unidad": 1,
+			"precio": 65000,
+			"talla": "37 al 43",
+			"categoria": "calzado_masculino",
+			"img_portafolio": "assets/img/portfolio/Nike color negro y blanco.JPEG"
+		},
+		{
+			"producto": "Sandalia taco yute",
+			"unidad": 1,
+			"precio": 58000,
+			"talla": "37 al 40",
+			"categoria": "calzado_femenino",
+			"img_portafolio": "assets/img/portfolio/Sandalia taco yute.JPEG"
+		},
+		{
+			"producto": "Calzado de vestir",
+			"unidad": 1,
+			"precio": 85000,
+			"talla": "37 al 43",
+			"categoria": "calzado_masculino",
+			"img_portafolio": "assets/img/portfolio/Calzado de vestir.JPEG"
+		},
+		{
+			"producto": "Combo botin y bolso color piel",
+			"unidad": 2,
+			"precio": 168000,
+			"talla": "37 al 43",
+			"categoria": "calzado_masculino",
+			"img_portafolio": "assets/img/portfolio/Combo botin y bolso color piel.JPEG"
+		},
+		{
+			"producto": "Combo botin y bolso color negro",
+			"unidad": 2,
+			"precio": 168000,
+			"talla": "37 al 43",
+			"categoria": "calzado_masculino",
+			"img_portafolio": "assets/img/portfolio/Combo botin y bolso color negro.JPEG"
+		},
+		{
+			"producto": "Combo botin y bolso color azul",
+			"unidad": 2,
+			"precio": 168000,
+			"talla": "37 al 43",
+			"categoria": "calzado_masculino",
+			"img_portafolio": "assets/img/portfolio/Combo botin y bolso color azul.JPEG"
+		},
+		{
+			"producto": "Bolso  yute y sandalia tacon",
+			"unidad": 2,
+			"precio": 108000,
+			"talla": "37 al 40",
+			"categoria": "calzado_femenino",
+			"img_portafolio": "assets/img/portfolio/Bolso yute y sandalia de tacon.JPEG"
+		},
+		{
+			"producto": "Bolso  yute y sandalia tacon blanco",
+			"unidad": 2,
+			"precio": 108000,
+			"talla": "37 al 40",
+			"categoria": "calzado_femenino",
+			"img_portafolio": "assets/img/portfolio/Bolso yute y sandalia de tacon blanco.JPEG"
+		},
+		{
+			"producto": "Bolso  yute y sandalia tacon negro",
+			"unidad": 2,
+			"precio": 108000,
+			"talla": "37 al 40",
+			"categoria": "calzado_femenino",
+			"img_portafolio": "assets/img/portfolio/Bolso yute y sandalia de tacon negro.JPEG"
+		},
+		{
+			"producto": "Bolso de yute y sandalia plataforma",
+			"unidad": 2,
+			"precio": 70000,
+			"talla": "37 al 40",
+			"categoria": "calzado_femenino",
+			"img_portafolio": "assets/img/portfolio/Bolso yute y sandalia de plataforma.JPEG"
+		},
+		{
+			"producto": "Bolso de yute y sandalia plataforma",
+			"unidad": 2,
+			"precio": 70000,
+			"talla": "37 al 40",
+			"categoria": "calzado_femenino",
+			"img_portafolio": "assets/img/portfolio/BolsoDeYuteYPlataforma.JPEG"
+		}
+	]
+}
