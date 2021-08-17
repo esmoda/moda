@@ -117,7 +117,7 @@
 			"precio": 68000,
 			"talla": "Sin especificaciones",
 			"categoria": "accesorios",
-			"img_portafolio": "assets/img/portfolio/duouno.JPEG"
+			"img_portafolio": "assets/img/portfolio/duouno.jpeg"
 		},
 		{
 			"producto": "Combo bolso Velez y monedero color negro",
@@ -125,7 +125,7 @@
 			"precio": 68000,
 			"talla": "Sin especificaciones",
 			"categoria": "accesorios",
-			"img_portafolio": "assets/img/portfolio/duodos.JPEG"
+			"img_portafolio": "assets/img/portfolio/duodos.jpeg"
 		},
 		{
 			"producto": "Converse kids color negro",
@@ -133,7 +133,7 @@
 			"precio": 48000,
 			"talla": "24 al 35",
 			"categoria": "calzado_infantil",
-			"img_portafolio": "assets/img/portfolio/conversekidsuno.JPEG"
+			"img_portafolio": "assets/img/portfolio/conversekiduno.jpeg"
 		},
 		{
 			"producto": "Converse kids color azul",
@@ -141,7 +141,7 @@
 			"precio": 48000,
 			"talla": "24 al 35",
 			"categoria": "calzado_infantil",
-			"img_portafolio": "assets/img/portfolio/conversekidsdos.JPEG"
+			"img_portafolio": "assets/img/portfolio/conversekidsdos.jpeg"
 		},
 		{
 			"producto": "Brahma caña alta color azul",
@@ -149,7 +149,7 @@
 			"precio": 68000,
 			"talla": "37 al 40",
 			"categoria": "calzado_femenino",
-			"img_portafolio": "assets/img/portfolio/brahmauno.JPEG"
+			"img_portafolio": "assets/img/portfolio/brahmauno.jpeg"
 		},
 		{
 			"producto": "Brahma caña alta color piel",
@@ -157,7 +157,7 @@
 			"precio": 68000,
 			"talla": "37 al 40",
 			"categoria": "calzado_femenino",
-			"img_portafolio": "assets/img/portfolio/brahmatres.JPEG"
+			"img_portafolio": "assets/img/portfolio/brahmatres.jpeg"
 		},
 		{
 			"producto": "Brahma caña alta color negro",
@@ -165,7 +165,7 @@
 			"precio": 68000,
 			"talla": "37 al 40",
 			"categoria": "calzado_femenino",
-			"img_portafolio": "assets/img/portfolio/brahmados.JPEG"
+			"img_portafolio": "assets/img/portfolio/brahmados.jpeg"
 		},
 		{
 			"producto": "Nike color blanco",
@@ -173,7 +173,7 @@
 			"precio": 65000,
 			"talla": "37 al 43",
 			"categoria": "calzado_masculino",
-			"img_portafolio": "assets/img/portfolio/nikeuno.JPEG"
+			"img_portafolio": "assets/img/portfolio/nikeuno.jpeg"
 		},
 		{
 			"producto": "Nike color negro",
@@ -181,7 +181,7 @@
 			"precio": 65000,
 			"talla": "37 al 43",
 			"categoria": "calzado_masculino",
-			"img_portafolio": "assets/img/portfolio/nikedos.JPEG"
+			"img_portafolio": "assets/img/portfolio/nikedos.jpeg"
 		},
 		{
 			"producto": "Nike color negro y blanco",
@@ -189,7 +189,7 @@
 			"precio": 65000,
 			"talla": "37 al 43",
 			"categoria": "calzado_masculino",
-			"img_portafolio": "assets/img/portfolio/niketres.JPEG"
+			"img_portafolio": "assets/img/portfolio/niketres.jpeg"
 		},
 		{
 			"producto": "Sandalia taco yute",
@@ -197,7 +197,7 @@
 			"precio": 58000,
 			"talla": "37 al 40",
 			"categoria": "calzado_femenino",
-			"img_portafolio": "assets/img/portfolio/sandaliatacouno.JPEG"
+			"img_portafolio": "assets/img/portfolio/sandaliataconuno.jpeg"
 		},
 		{
 			"producto": "Calzado de vestir",
@@ -205,7 +205,7 @@
 			"precio": 85000,
 			"talla": "37 al 43",
 			"categoria": "calzado_masculino",
-			"img_portafolio": "assets/img/portfolio/calzadodevestir.JPEG"
+			"img_portafolio": "assets/img/portfolio/calzadodevestir.jpeg"
 		},
 		{
 			"producto": "Combo botin y bolso color piel",
@@ -213,7 +213,7 @@
 			"precio": 168000,
 			"talla": "37 al 43",
 			"categoria": "calzado_masculino",
-			"img_portafolio": "assets/img/portfolio/combobotintres.JPEG"
+			"img_portafolio": "assets/img/portfolio/combobotintres.jpeg"
 		},
 		{
 			"producto": "Combo botin y bolso color negro",
@@ -221,7 +221,7 @@
 			"precio": 168000,
 			"talla": "37 al 43",
 			"categoria": "calzado_masculino",
-			"img_portafolio": "assets/img/portfolio/combobotindos.JPEG"
+			"img_portafolio": "assets/img/portfolio/combobotindos.jpeg"
 		},
 		{
 			"producto": "Combo botin y bolso color azul",
@@ -229,7 +229,7 @@
 			"precio": 168000,
 			"talla": "37 al 43",
 			"categoria": "calzado_masculino",
-			"img_portafolio": "assets/img/portfolio/combobotinuno.JPEG"
+			"img_portafolio": "assets/img/portfolio/combobotinuno.jpeg"
 		},
 		{
 			"producto": "Bolso  yute y sandalia tacon",
@@ -237,7 +237,7 @@
 			"precio": 108000,
 			"talla": "37 al 40",
 			"categoria": "calzado_femenino",
-			"img_portafolio": "assets/img/portfolio/comboyuteuno.JPEG"
+			"img_portafolio": "assets/img/portfolio/comboyuteuno.jpeg"
 		},
 		{
 			"producto": "Bolso  yute y sandalia tacon blanco",
@@ -245,7 +245,7 @@
 			"precio": 108000,
 			"talla": "37 al 40",
 			"categoria": "calzado_femenino",
-			"img_portafolio": "assets/img/portfolio/comboyutetres.JPEG"
+			"img_portafolio": "assets/img/portfolio/comboyutetres.jpeg"
 		},
 		{
 			"producto": "Bolso  yute y sandalia tacon negro",
@@ -253,7 +253,7 @@
 			"precio": 108000,
 			"talla": "37 al 40",
 			"categoria": "calzado_femenino",
-			"img_portafolio": "assets/img/portfolio/comboyutedos.JPEG"
+			"img_portafolio": "assets/img/portfolio/comboyutedos.jpeg"
 		},
 		{
 			"producto": "Bolso de yute y sandalia plataforma",
@@ -261,7 +261,7 @@
 			"precio": 70000,
 			"talla": "37 al 40",
 			"categoria": "calzado_femenino",
-			"img_portafolio": "assets/img/portfolio/comboyutecuatro.JPEG"
+			"img_portafolio": "assets/img/portfolio/comboyutecuatro.jpeg"
 		},
 		{
 			"producto": "Bolso de yute y sandalia plataforma",
