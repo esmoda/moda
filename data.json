@@ -197,7 +197,7 @@
 			"precio": 58000,
 			"talla": "37 al 40",
 			"categoria": "calzado_femenino",
-			"img_portafolio": "assets/img/portfolio/sandaliataconuno.jpeg"
+			"img_portafolio": "assets/img/portfolio/sandaliatacouno.jpeg"
 		},
 		{
 			"producto": "Calzado de vestir",
@@ -256,20 +256,12 @@
 			"img_portafolio": "assets/img/portfolio/comboyutedos.jpeg"
 		},
 		{
-			"producto": "Bolso de yute y sandalia plataforma",
+			"producto": "Bolso  yute y sandalia plataforma",
 			"unidad": 2,
 			"precio": 70000,
 			"talla": "37 al 40",
 			"categoria": "calzado_femenino",
 			"img_portafolio": "assets/img/portfolio/comboyutecuatro.jpeg"
-		},
-		{
-			"producto": "Bolso de yute y sandalia plataforma",
-			"unidad": 2,
-			"precio": 70000,
-			"talla": "37 al 40",
-			"categoria": "calzado_femenino",
-			"img_portafolio": "assets/img/portfolio/BolsoDeYuteYPlataforma.JPEG"
 		}
 	]
 }
